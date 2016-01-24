@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/mb1nonil/mb1nonil.github.io#readme",
   "devDependencies": {
-    "node-dev-server": "0.0.1"
   }
 }
